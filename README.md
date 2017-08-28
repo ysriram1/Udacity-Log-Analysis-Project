@@ -7,5 +7,5 @@ This repo consists of two files:
 
 Here is what the served results page looks like: 
 
-![Results]
+![Results](/screenshot.PNG)
 
