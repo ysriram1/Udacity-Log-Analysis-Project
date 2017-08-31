@@ -1,7 +1,9 @@
 # Udacity-Log-Analysis-Project
 Solution to the Log Analysis Project in the Full Stack Web Developer Nano Degree.
 
-**Python 3** has been used for this assignment. The data is stored in a **PostgreSQL** database and the DBAPI used to connect and query this database using python was *psycopg2*. The other package dependency we have is *Flask*, which has been used as server to display the results in a web-page. 
+The objective of this assignment is to gain an understanding of SQL and how to interact with SQL using python. The data needed in order to complete this assignment was provided by Udacity.
+
+**Python 3** has been used for this assignment. The data is stored in a **PostgreSQL** database and the DBAPI used to connect and query this database using python was *psycopg2*. The other package dependency we have is *Flask*, which has been used as a server to display the results in a web-page.
 
 This repo consists of two files:
 - The "log_analysis_db.py" file contains all the commands used to retrieve data from the SQL database. 
