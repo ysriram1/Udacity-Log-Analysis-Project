@@ -24,7 +24,6 @@ CREATE VIEW all_date AS
 SELECT date(log.time), COUNT(*) AS all
 FROM log GROUP BY date(log.time);
 ```
-AND
 
 ```
 CREATE VIEW bad_date AS
